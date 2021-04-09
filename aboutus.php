@@ -10,37 +10,37 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-          <a class="navbar-brand" href="department.html">RCSS</a>
+          <a class="navbar-brand" href="index.php">RCSS</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="department.html">Home</a>
+                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="aboutus.html">About Us</a>
+                <a class="nav-link" href="aboutus.php">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="gallery.html">Gallery</a>
+                <a class="nav-link" href="gallery.php">Gallery</a>
               </li>
               <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
                   Department
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="computerscience.html">Computer Science</a></li>
-                  <li><a class="dropdown-item" href="commerce.html">Commerce</a></li>
-                  <li><a class="dropdown-item" href="bioscience.html">Bio Science</a></li>
+                  <li><a class="dropdown-item" href="computerscience.php">Computer Science</a></li>
+                  <li><a class="dropdown-item" href="commerce.php">Commerce</a></li>
+                  <li><a class="dropdown-item" href="bioscience.php">Bio Science</a></li>
                   
                 </ul>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="examination.html">Examination</a>
+                <a class="nav-link" href="examination.php">Examination</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact</a>
+                <a class="nav-link" href="contact.php">Contact</a>
               </li>
             </ul>
             <form class="d-flex">
@@ -54,8 +54,8 @@
                           User portal
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                          <li><a class="dropdown-item" href="signin.html">Sign in</a></li>
-                          <li><a class="dropdown-item" href="signup.html">Sign up</a></li>
+                          <li><a class="dropdown-item" href="signin.php">Sign in</a></li>
+                          <li><a class="dropdown-item" href="signup.php">Sign up</a></li>
                         </ul>
                       </li>
                 </div>
